@@ -1,0 +1,13 @@
+.contact-list {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #444;
+    border-radius: 8px;
+    background-color: #555;
+    margin-top: 40px;
+    color: #eee;
+}
+
+hr {
+    border-color: #eee;
+}

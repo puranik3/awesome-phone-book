@@ -1,0 +1,19 @@
+{
+    "name": "phone-book",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "cpx \"node_modules/{jquery,bootstrap/dist}/**/*\" ./public",
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.4.1",
+        "express": "^4.17.1",
+        "http-server": "^0.12.1",
+        "jquery": "^3.4.1"
+    }
+}
